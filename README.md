@@ -30,5 +30,7 @@ This is so your code will be 'loosely coupled' and polymorphic so that you can e
 Where as when using inheritance or composition adding or changing an implementation may lead to a complexity of necessary changes.
 
 ## In Short
-If you have a class that creates and object _and_ it also creates a feature of that object there is a good chance you might want to implement OCP. <br />
+If you have a class that creates and object _and_ it creates multiple versions of a feature for that object there is a good chance you might want to implement OCP. <br />
 Applying this principle will make your code cleaner, easier to test, easier to understand and more joyful to work on
+
+
