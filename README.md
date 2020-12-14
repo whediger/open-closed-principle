@@ -1,5 +1,9 @@
 # open-closed-principle (OCP)
-a short tutorial for demonstrating the Open Closed SOLID design principle
+a short tutorial for demonstrating the Open Closed SOLID design principle <br />
+
+## Tutorial Video: goes with this repo
+
+https://youtu.be/SIt_lgtGXsM
 
 ## Overview
 The Open Closed Principle is the 'O' in Solid design principles. It is also referred to as OCP <br />
