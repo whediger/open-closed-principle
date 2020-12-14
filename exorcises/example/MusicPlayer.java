@@ -1,5 +1,4 @@
 public class MusicPlayer {
-
 	public static void main(String args[]) {
 		MusicPlayer musicPlayer = new MusicPlayer();
 		musicPlayer.playMusic("streamingApp");
@@ -15,5 +14,4 @@ public class MusicPlayer {
 			System.out.println("music player not supported, plese choose another");
 		}
 	}
-
 }

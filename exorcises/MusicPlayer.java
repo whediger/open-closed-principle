@@ -1,10 +1,10 @@
-
 public class MusicPlayer {
 
 	public static void main(String args[]) {
 		MusicPlayer musicPlayer = new MusicPlayer();
 		musicPlayer.playMusic("streamingApp");
 		musicPlayer.playMusic("record player");
+		musicPlayer.playMusic("car player");
 	}
 
 	private void playMusic(String playerType) {
